@@ -4,15 +4,15 @@
 
 # CESI Tools
 
-CESI Tools est un portail statique qui centralise les applications pédagogiques et les ressources Excel.
+CESI Tools est un portail web qui regroupe des services et ressources utiles aux activités pédagogiques CESI dans une interface commune.
 
-## Outils
+## Services
 
-- **CESI EDT** : https://edt.cesi-tools.workers.dev/
-- **Commandes CESI** : https://commandes.cesi-tools.workers.dev/
-- **Résultats CESI** : https://resultats.cesi-tools.workers.dev/
+- **CESI EDT** : gestion et partage des emplois du temps et abonnements ICS.
+- **Commandes CESI** : demandes de matériel, validation des commandes et suivi des budgets projets.
+- **Résultats CESI** : suivi des résultats, validations, rattrapages, dettes et préparation des jurys.
+- **Julia** : assistant basé sur l'IA pour aider à cadrer et structurer un projet étudiant.
 
 ## Ressource
 
-Le fichier `assets/Template_Excel_EDT_format_normalise.xlsx` est téléchargeable depuis le portail.
-
+Le portail met également à disposition le template Excel normalisé utilisé par CESI EDT pour préparer et importer les emplois du temps.
