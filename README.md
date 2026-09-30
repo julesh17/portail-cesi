@@ -4,11 +4,7 @@
 
 # CESI Tools
 
-CESI Tools est un portail statique qui centralise trois applications pédagogiques et une ressource Excel.
-
-Le portail est prévu pour être publié depuis GitHub sur Vercel, puis exposé à l'adresse :
-
-`https://portail.cesi-tools.workers.dev/`
+CESI Tools est un portail statique qui centralise les applications pédagogiques et les ressources Excel.
 
 ## Outils
 
@@ -18,14 +14,5 @@ Le portail est prévu pour être publié depuis GitHub sur Vercel, puis exposé 
 
 ## Ressource
 
-Le fichier `assets/Template_Excel_EDT_format_normalise.xlsx` est conservé dans le dépôt et reste téléchargeable depuis le portail.
+Le fichier `assets/Template_Excel_EDT_format_normalise.xlsx` est téléchargeable depuis le portail.
 
-## Déploiement
-
-Le projet est entièrement statique :
-
-- `index.html`
-- `assets/style.css`
-- `assets/main.js`
-
-Il peut être connecté directement à un dépôt GitHub et déployé sur Vercel sans configuration particulière.
